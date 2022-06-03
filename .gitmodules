@@ -4,3 +4,6 @@
 [submodule "js-mocking-fundamentals"]
 	path = js-mocking-fundamentals
 	url = https://github.com/spfave/js-mocking-fundamentals.git
+[submodule "static-testing-tools"]
+	path = static-testing-tools
+	url = https://github.com/spfave/static-testing-tools.git
