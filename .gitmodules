@@ -7,3 +7,6 @@
 [submodule "static-testing-tools"]
 	path = static-testing-tools
 	url = https://github.com/spfave/static-testing-tools.git
+[submodule "dom-testing-library-with-anything"]
+	path = dom-testing-library-with-anything
+	url = https://github.com/spfave/dom-testing-library-with-anything.git
