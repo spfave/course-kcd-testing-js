@@ -10,3 +10,6 @@
 [submodule "dom-testing-library-with-anything"]
 	path = dom-testing-library-with-anything
 	url = https://github.com/spfave/dom-testing-library-with-anything.git
+[submodule "jest-cypress-react-babel-webpack"]
+	path = jest-cypress-react-babel-webpack
+	url = https://github.com/spfave/jest-cypress-react-babel-webpack.git
