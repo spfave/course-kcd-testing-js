@@ -13,3 +13,6 @@
 [submodule "jest-cypress-react-babel-webpack"]
 	path = jest-cypress-react-babel-webpack
 	url = https://github.com/spfave/jest-cypress-react-babel-webpack.git
+[submodule "react-testing-library-course"]
+	path = react-testing-library-course
+	url = https://github.com/spfave/react-testing-library-course
